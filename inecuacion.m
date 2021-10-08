@@ -3,7 +3,7 @@
 %Specialty      :Ingeniería en Sistemas Computacionales 
 %Title          :Clasificacion de los números 
 %Description    :Scrip conceptos de números 
-%Author         :Iván Mora García, Fernando Angel,
+%Author         :Iván Mora García, Fernando Angel,Angelica Arellano Vilchiz
 %Date           :202123204
 %Version        :1
 %Usage          :octave >/path/ClasificacionNumeros
